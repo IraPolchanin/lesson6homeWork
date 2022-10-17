@@ -1,3 +1,5 @@
+// this is comment
+
 
 let currentDate = new Date();
 let days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
